@@ -1,6 +1,14 @@
+:root {
+  color-scheme: dark;
+  font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background: linear-gradient(to left, rgba(7, 27, 82, 1) 0%, rgba(0, 128, 128, 1) 100%);
-  font-family: sans-serif;
-  padding: 0;
   margin: 0;
+  background: #070b18;
+  color: #e2e8f0;
 }
